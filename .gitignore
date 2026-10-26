@@ -1,0 +1,16 @@
+# Archivo con ruta personalizada del equipo de build (cliente)
+development/Dibujar.PDM
+
+# Scans de referencia del material original
+development/images/development/IMG_0125.psd
+development/images/development/IMG_0125.JPG
+
+# Archivos RAR duplicados del propio árbol
+docs/interfaz.rar
+instalador/Dibujar_instalador.rar
+release/Dibujar_release.rar
+
+# Basura de sistema
+Thumbs.db
+._*
+.DS_Store
